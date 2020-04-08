@@ -21,3 +21,8 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+/docker/php/psysh
+!/docker/php/psysh/config.php
+/logs/*
+!/logs/empty
